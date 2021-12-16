@@ -34,16 +34,20 @@ main: #简历主要内容，
     duration: "2017年9月 - 2021年6月"
     sub: 上海交通大学学士学位
     detail: 上海交通大学电子信息与电气工程学院信息工程
-  - title: Shanghai Jiaotong University
-    duration: September 2017 - june 2021
-    sub: Bachelor of Shanghai Jiaotong University
-    detail: Bachelor of Electronic Engineering.
+    - title: 上海交通大学
+    duration: "2021年9月 - 至今"
+    sub: 上海交通大学硕士在读
+    detail: 上海交通大学电子工程系在读
+#   - title: Shanghai Jiaotong University
+#     duration: September 2017 - june 2021
+#     sub: Bachelor of Shanghai Jiaotong University
+#     detail: Bachelor of Electronic Engineering.
 
 - type: skills
   # name: "技能"
   content:
   - title: 熟练使用的编程语言
-    itmems: #itmems 可以小块的方式显示
+    items: #itmems 可以小块的方式显示
     - C++
     - python
     - matlab

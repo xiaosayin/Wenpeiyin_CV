@@ -46,18 +46,19 @@ main: #简历主要内容，
 - type: skills
   name: 技能
   content:
-  - title: 熟练使用的编程语言
+  - title: 1.
     items: #itmems 可以小块的方式显示
+      - 熟练使用
       - C++
       - python
       - matlab
-  - title:
+  - title: 2.
     items:
     - Markdown 文档编辑
-  - title:
+  - title: 3.
     items:
       - 具有一定的电子设计经验
-  - title:
+  - title: 4.
     items:
       - CET6 英语6级证书
 #   - title: Skill Group

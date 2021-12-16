@@ -3,7 +3,7 @@
 
 title: "Wenpei Yin Resume"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "尹文沛"
+name: "尹文沛 Wenpei Yin"
 # jobtitle: "求职意向" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
@@ -68,23 +68,28 @@ main: #简历主要内容，
   name: 学业成绩
   content:
   - title: 本科
-    summary: 本科期间，核心学积分专业排名 24/151，获得推荐免试资格
+    summary: 本科期间，核心学积分专业排名 24/151，获得推荐免试硕士生资格
   - title: 硕士在读
     summary: 现在上海交通大学图像所，研究方向为视频传输协议
 
 - type: awards
   name: 获奖经历
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
-   #可继续添加更多内容
+  - title: 2021 年度上海交通大学优秀毕业生
+  - title: 2017-2018 学年上海交通大学三好学生
+  - title: 2017-2018 学年校级 B 等奖学金
+  - title: 2018-2019 学年校级 C 等奖学金
+  - title: 2018 年度军训优秀学员
+
+#     duration: xxxx年xx月 - yyyy年yy月
+#     detail: 项目和工作介绍，项目总结.
+#     sub: 维护者
+#   - title: Project Name
+#     summary: Projects' introduction or summary
+#     detail:
+#       md: _data/demo.md
+#     sub: Creator and maintainer.
+#    #可继续添加更多内容
 
 #others 其他简略内容(列表)
 others: #其他列表显示

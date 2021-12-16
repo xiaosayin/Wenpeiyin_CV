@@ -80,6 +80,16 @@ main: #简历主要内容，
 #     sub: Creator and maintainer.
 #    #可继续添加更多内容
 
+- type: projects
+  name: 科研经历
+  content:
+  - title: 基于强化学习的视频码率自适应算法研究及系统优化
+    duration: 2021年1月 - 2021年6月
+    detail: 应用强化学习的方法优化传统 ABR(Adaptive Bit Rate) 算法的性能
+   - title: 全国大学生电子设计大赛
+     duration: 2019年6月 - 2021年8月
+     detail: 制作出一台纸张数量测试仪器
+
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空

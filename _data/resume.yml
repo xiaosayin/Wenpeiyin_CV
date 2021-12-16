@@ -47,7 +47,7 @@ main: #简历主要内容，
   # name: "技能"
   content:
   - title: 熟练使用的编程语言
-    items: #itmems 可以小块的方式显示
+    items: #itmemss 可以小块的方式显示
     - C++
     - python
     - matlab

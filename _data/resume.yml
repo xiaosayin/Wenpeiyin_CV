@@ -67,22 +67,22 @@ main: #简历主要内容，
   name: 学业及获奖情况
   content:
   - title: 学业成绩
-#     sub: 某某公司
-#     duration: "xxxx年xx月 - yyyy年yy月"
+    sub: 某某公司
+    duration: "xxxx年xx月 - yyyy年yy月"
     tags:
     - 本科
-    summary: 本科期间，核心学积分专业排名：24/151，获得推荐免试研究生资格
-    # detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+      summary: 本科期间，核心学积分专业排名：24/151，获得推荐免试研究生资格
+      detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
    
   - title: 硕士在读
-#     sub: 某某公司
-#     duration: "xxxx年xx月 - yyyy年yy月"
+     sub: 某某公司
+     duration: "xxxx年xx月 - yyyy年yy月"
     tags:
     - 硕士研究方向
-    summary: 上海交通大学图像所，研究方向为视频传输协议
-    # detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+      summary: 上海交通大学图像所，研究方向为视频传输协议
+      detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
     

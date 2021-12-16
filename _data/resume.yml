@@ -47,7 +47,7 @@ main: #简历主要内容，
   name: 技能
   content:
   - title: 1. 熟练使用 C++, python, matlab 编程语言
-  - title: 2. 熟练使用 Markdown 文本编辑，微信公众号帖子编辑
+  - title: 2. 熟练使用 Markdown 文本编辑
   - title: 3. 具有一定的电子设计经验
   - title: 4. CET6 英语6级证书
 #   - title: Skill Group

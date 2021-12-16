@@ -46,21 +46,10 @@ main: #简历主要内容，
 - type: skills
   name: 技能
   content:
-  - title: 1.
-    items: #itmems 可以小块的方式显示
-      - 熟练使用
-      - C++
-      - python
-      - matlab
-  - title: 2.
-    items:
-    - Markdown 文档编辑
-  - title: 3.
-    items:
-      - 具有一定的电子设计经验
-  - title: 4.
-    items:
-      - CET6 英语6级证书
+  - title: 1. 熟练使用 C++, python, matlab 编程语言
+  - title: 2. 熟练使用 Markdown 文本编辑，微信公众号帖子编辑
+  - title: 3. 具有一定的电子设计经验
+  - title: 4. CET6 英语6级证书
 #   - title: Skill Group
 #     summary: Consectetur, Adipiscing, Elit
 
